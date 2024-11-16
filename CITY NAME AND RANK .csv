@@ -1,0 +1,54 @@
+city_rank,city_name,state_name,population,CNT
+1,Mumbai,Maharashtra,18394912,2
+2,Delhi,Delhi,16349831,2
+3,Kolkata,"West Bengal",14112536,2
+4,Chennai,"Tamil Nadu",8696010,2
+5,Bangalore,Karnataka,8520435,2
+6,Hyderabad,Telangana,7749334,2
+7,Ahmedabad,Gujarat,6361084,2
+8,Pune,Maharashtra,5057709,2
+9,Surat,Gujarat,4591246,2
+10,Jaipur,Rajasthan,3073350,2
+11,Kanpur,"Uttar Pradesh",2920496,2
+12,Lucknow,"Uttar Pradesh",2902920,2
+13,Nagpur,Maharashtra,2497870,2
+14,Ghaziabad,"Uttar Pradesh",2375820,2
+15,Indore,"	Madhya Pradesh",2170295,2
+16,Coimbatore,"Tamil Nadu",2151466,2
+17,Kochi,Kerala,2119724,2
+18,Patna,Bihar,2049156,2
+19,Kozhikode,Kerala,2030519,2
+20,Bhopal,"Madhya Pradesh",1886100,2
+21,Thrissur,Kerala,1861269,2
+22,Vadodara,Gujarat,1822221,2
+23,Agra,"Uttar Pradesh",1760285,2
+24,Visakhapatnam,"Andhra Pradesh",1730320,2
+25,Malappuram,Kerala,1699060,2
+26,Thiruvananthapuram,Kerala,1687406,2
+27,Kannur,Kerala,1642892,2
+28,Ludhiana,Punjab,1618879,2
+29,Vijayawada,"Andhra Pradesh",1491202,2
+30,Madurai,"Tamil Nadu",1465625,2
+31,Varanasi,"Uttar Pradesh",1435113,2
+32,Meerut,"Uttar Pradesh",1424908,2
+33,Faridabad,Haryana,1414050,2
+34,Rajkot,Gujarat,1390933,2
+35,Jamshedpur,Jharkhand,1339438,2
+36,Srinagar,"Jammu and Kashmir",1273312,2
+37,Jabalpur,"Madhya Pradesh",1268848,2
+38,Asansol,"West Bengal",1243414,2
+39,Vasai-Virar,Maharashtra,1222390,2
+40,Prayagraj,"Uttar Pradesh",1216719,2
+41,Dhanbad,Jharkhand,1196214,2
+42,Aurangabad,Maharashtra,1193167,2
+43,Amritsar,Punjab,1183705,2
+44,Jodhpur,Rajasthan,1138300,2
+45,Ranchi,Jharkhand,1126741,2
+46,Raipur,Chhattisgarh,112558,2
+47,Kollam,Kerala,1110668,2
+48,Gwalior,"Madhya Pradesh",1102884,2
+49,Bhilai,Chhattishgarh,1064222,2
+50,Chandigarh,Chandigarh,1026459,2
+51,Tiruchirappalli,"Tamil Nadu",1022518,2
+52,Kota,Rajasthan,1001694,2
+53,Mysore,Karnataka,990900,2
